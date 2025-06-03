@@ -3,7 +3,7 @@ name: Deploy BigCommerce Theme
 on:
   push:
     branches:
-      - main  # Change this if you use a different branch for deployment
+      - main  # Change this if you use a different branch for deploymentddd
 
 jobs:
   deploy:
